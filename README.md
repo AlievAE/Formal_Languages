@@ -1,5 +1,5 @@
-# Practicum 1
-This repository contains C++ library for working with Regular Expression in Polish notation and Finite Automata: 
+# Formal Languages
+This repository contains C++ library for working with formal languages: 
 
 ## Quick Start Ubuntu 
       Install following tools, if you don't have them already: 
